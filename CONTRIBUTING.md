@@ -1,5 +1,6 @@
 # Contributing
-
+## Ergänung EMailadresse
+"Bitte sende eine Email an: lielings_kollege@firma.com"
 Your contributions are always welcome!
 
 ## Guidelines
